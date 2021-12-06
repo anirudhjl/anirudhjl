@@ -13,7 +13,8 @@ I'm from India, living in Bangalore.<br />
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-9999FF.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-77FF33.svg?logo=java&logoColor=black"></a>
 </p>
 
 ## Tools
@@ -25,4 +26,5 @@ I'm from India, living in Bangalore.<br />
 </p>
 
 ## Github Stats
-<img alt="anirudhjl's Github stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=anirudhjl&show_icons=true&theme=dark&hide_border=true" />
+<img alt="anirudhjl's Github stats" src="https://github-readme-stats.vercel.app/api/?username=anirudhjl&show_icons=true&theme=dark&hide_border=true" />
+<img alt="anirudhjl's language stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhjl&show_icons=true&theme=dark&hide_border=true" />
