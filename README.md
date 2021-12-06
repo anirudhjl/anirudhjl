@@ -1,7 +1,7 @@
 ## Hi there 👋
 Hello, I'm Anirudh.<br />
 I'm a Software Engineer and I build websites.<br />
-I'm from India, living in Bangalore.<br />
+I'm from India, currently living in Bangalore.<br />
 
 <a href="https://instagram.com/ani_bhat"><img height="30" src="https://github.com/anirudhjl/anirudhjl/blob/main/images/instagram_icon.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anirudhjl-022/"><img height="30" src="https://github.com/anirudhjl/anirudhjl/blob/main/images/linkedIn_icon.png"></a>
