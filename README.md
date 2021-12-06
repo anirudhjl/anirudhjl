@@ -7,7 +7,7 @@ I'm from India, living in Bangalore.<br />
 <a href="https://www.linkedin.com/in/anirudhjl-022/"><img height="30" src="https://github.com/anirudhjl/anirudhjl/blob/main/images/linkedIn_icon.png"></a>
 
 
-## Programming Languages
+## Programming Languages and Libraries
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-9999FF.svg?logo=css3&logoColor=white"></a>
