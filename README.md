@@ -13,12 +13,17 @@ I'm a Software Engineer and I build websites.<br />
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=white"></a>
+    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-8A2BE2.svg?logo=redux&logoColor=white"></a>
+    <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-green?logo=jest"></a>
 </p>
 
 ## Tools
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-007ACC.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-20232A?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-004e98?logo=visual-studio-code"></a>
+    <a href="#"><img alt="JIRA" src="https://img.shields.io/badge/Jira-14892c?logo=jira"></a>
+    <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-d24939?logo=jenkins&logoColor=white"></a>
 </p>
 
 ## Github Stats
