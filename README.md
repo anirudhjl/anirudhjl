@@ -72,3 +72,4 @@
 ---
 
 ⭐️ *Thanks for stopping by!*
+![Profile Views]([https://komarev.com/ghpvc/?username=anirudhjl])
