@@ -9,7 +9,7 @@
 <p>
   <a href="https://instagram.com/ani_bhat">
     <img height="30" src="https://github.com/anirudhjl/anirudhjl/blob/main/images/instagram_icon.png" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.linkedin.com/in/anirudhjl-022/">
     <img height="30" src="https://github.com/anirudhjl/anirudhjl/blob/main/images/linkedIn_icon.png" />
   </a>
@@ -36,8 +36,6 @@
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-8A2BE2.svg?logo=redux&logoColor=white"></a>
   <a href="#"><img alt="Zustand" src="https://img.shields.io/badge/Zustand-443E38.svg?logo=react&logoColor=white"></a>
-  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
   <a href="#"><img alt="Preact" src="https://img.shields.io/badge/Preact-673AB8.svg?logo=preact&logoColor=white"></a>
   <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
@@ -51,8 +49,8 @@
 <p>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Middleware" src="https://img.shields.io/badge/Middleware-4B5563.svg?logo=node.js&logoColor=white"></a>  
     <a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST_API-02569B.svg?logo=swagger&logoColor=white"></a>
-    <a href="#"><img alt="Middleware" src="https://img.shields.io/badge/Middleware-4B5563.svg?logo=node.js&logoColor=white"></a>
 </p>
 
 ---
@@ -71,5 +69,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhjl&theme=dark)](https://git.io/streak-stats)
+
+---
+
 ⭐️ *Thanks for stopping by!*
-![Profile Views]([https://komarev.com/ghpvc/?username=anirudhjl])
+
+![Profile Views](https://komarev.com/ghpvc/?username=anirudhjl&color=blueviolet)
